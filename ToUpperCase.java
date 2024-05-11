@@ -5,7 +5,7 @@ public class ToUpperCase {
             String output = input.toUpperCase();
             System.out.println(output);
         } else {
-            System.out.println("Please provide a string as an argument.");
+            System.out.println("Please provide a string as an argumentxx.");
         }
     }
 }
